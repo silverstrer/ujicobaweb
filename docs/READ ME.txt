@@ -1,0 +1,1 @@
+Tampilan web versi tablet masih belum responsive. Ukuran lebar tampilan tablet 768px
